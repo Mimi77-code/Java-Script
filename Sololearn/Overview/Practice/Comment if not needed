@@ -1,0 +1,7 @@
+You are given a program that prints two expressions.
+
+Task
+Comment the second line of the code to print only the first expression.
+
+console.log("JavaScript is fun");
+// console.log("JavaScript is hard");
