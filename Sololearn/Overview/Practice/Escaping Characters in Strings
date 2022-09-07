@@ -1,0 +1,11 @@
+Fix the given code to output the following expression:
+I'm learning JavaScript
+
+Hint
+Escape the single quote inside the string.
+//fix the code
+console.log('I'm learning JavaScript');
+
+-Code
+//fix the code
+console.log('I\'m learning JavaScript');
