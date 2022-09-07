@@ -1,0 +1,11 @@
+    <script>
+        let country = "INDIA";
+        let isIsland = true;
+            isIsland = "ANDAMAN";  
+        let population = 1408894961;
+        let language;
+        console.log(typeof country);
+        console.log(typeof isIsland);
+        console.log(typeof population);
+        console.log(typeof language);
+    </script>
