@@ -1,0 +1,8 @@
+   <script>
+        let country = "INDIA";
+        let continent = "ASIA";
+        let population = 1408894961;
+        console.log(country);
+        console.log(continent);
+        console.log(population);
+   </script>
